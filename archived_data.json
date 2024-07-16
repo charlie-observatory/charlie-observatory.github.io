@@ -1,1 +1,674 @@
-
+[
+  {
+    "EVENT_ID": "1648266",
+    "YER": "BUĞDAYLI-SULUSARAY (TOKAT)",
+    "ZAMAN": "2024-04-18 18:11:25 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "7.3km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.045,36.0203"
+  },
+  {
+    "EVENT_ID": "1532767",
+    "YER": "KARABUCAK-KOZAN (ADANA)",
+    "ZAMAN": "2023-07-25 08:44:49 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "12.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.617,35.8885"
+  },
+  {
+    "EVENT_ID": "1241294",
+    "YER": "TÜRKİYE-İRAN SINIR BÖLGESİ",
+    "ZAMAN": "2023-03-24 06:16:57 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "19.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.42,44.92"
+  },
+  {
+    "EVENT_ID": "1226432",
+    "YER": "MAĞARACIK-SAMANDAĞ (HATAY)",
+    "ZAMAN": "2023-02-20 20:07:36 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "15.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.11,35.91"
+  },
+  {
+    "EVENT_ID": "1226422",
+    "YER": "FIDANLI-SAMANDAĞ (HATAY)",
+    "ZAMAN": "2023-02-20 20:04:29 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.16,36.02"
+  },
+  {
+    "EVENT_ID": "1219398",
+    "YER": "ÇATALTEPE-GÖLBAŞI (ADIYAMAN)",
+    "ZAMAN": "2023-02-07 06:13:13 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "2.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.83,37.63"
+  },
+  {
+    "EVENT_ID": "1218866",
+    "YER": "MEHMETBEY-GÖKSUN (KAHRAMANMARAŞ)",
+    "ZAMAN": "2023-02-06 15:02:11 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "5.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.07,36.47"
+  },
+  {
+    "EVENT_ID": "1218794",
+    "YER": "CAFANA-YEŞILYURT (MALATYA)",
+    "ZAMAN": "2023-02-06 13:51:32 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "8.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.3,38.13"
+  },
+  {
+    "EVENT_ID": "1218779",
+    "YER": "ÇAVUŞLU-DOĞANŞEHIR (MALATYA)",
+    "ZAMAN": "2023-02-06 13:36:00 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "9.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.18,37.77"
+  },
+  {
+    "EVENT_ID": "1219172",
+    "YER": "SÜRGÜ-DOĞANŞEHIR (MALATYA)",
+    "ZAMAN": "2023-02-06 13:26:48 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "20.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.03,37.96"
+  },
+  {
+    "EVENT_ID": "1218771",
+    "YER": "GÜMÜŞDÖVEN-ELBISTAN (KAHRAMANMARAŞ)",
+    "ZAMAN": "2023-02-06 13:24:49 (TSİ)",
+    "BÜYÜKLÜK": "7.5",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.11,37.24"
+  },
+  {
+    "EVENT_ID": "1218488",
+    "YER": "HARMANLI-GÖLBAŞI (ADIYAMAN)",
+    "ZAMAN": "2023-02-06 05:03:37 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "5.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.86,37.81"
+  },
+  {
+    "EVENT_ID": "1218455",
+    "YER": "ÖRTÜLÜ-İSLAHIYE (GAZIANTEP)",
+    "ZAMAN": "2023-02-06 04:36:28 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.05,36.73"
+  },
+  {
+    "EVENT_ID": "1218449",
+    "YER": "DURMUŞLAR-NURDAĞI (GAZIANTEP)",
+    "ZAMAN": "2023-02-06 04:28:17 (TSİ)",
+    "BÜYÜKLÜK": "6.7",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.13,36.81"
+  },
+  {
+    "EVENT_ID": "1218536",
+    "YER": "NAIMLER-NURDAĞI (GAZIANTEP)",
+    "ZAMAN": "2023-02-06 04:26:50 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "5.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.22,36.93"
+  },
+  {
+    "EVENT_ID": "1218444",
+    "YER": "YAMAÇOBA-ŞEHITKAMIL (GAZIANTEP)",
+    "ZAMAN": "2023-02-06 04:17:36 (TSİ)",
+    "BÜYÜKLÜK": "7.8",
+    "DERİNLİK": "20.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.17,37.08"
+  },
+  {
+    "EVENT_ID": "1215880",
+    "YER": "TÜRKİYE-İRAN SINIR BÖLGESİ",
+    "ZAMAN": "2023-01-28 21:14:47 (TSİ)",
+    "BÜYÜKLÜK": "6.0",
+    "DERİNLİK": "15.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.49,44.91"
+  },
+  {
+    "EVENT_ID": "1214639",
+    "YER": "AKDENİZ",
+    "ZAMAN": "2023-01-25 15:37:06 (TSİ)",
+    "BÜYÜKLÜK": "6.0",
+    "DERİNLİK": "35.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.75,28.54"
+  },
+  {
+    "EVENT_ID": "1211933",
+    "YER": "İRAN",
+    "ZAMAN": "2023-01-18 13:08:13 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.46,45.02"
+  },
+  {
+    "EVENT_ID": "1191966",
+    "YER": "SARIDERE-GÖLYAKA (DÜZCE)",
+    "ZAMAN": "2022-11-23 04:08:15 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "11.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.82,30.99"
+  },
+  {
+    "EVENT_ID": "1191220",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2022-11-21 02:25:01 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "56.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.83,26.42"
+  },
+  {
+    "EVENT_ID": "1175854",
+    "YER": "İRAN",
+    "ZAMAN": "2022-10-05 03:21:28 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.47,45.02"
+  },
+  {
+    "EVENT_ID": "1163917",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "2022-08-31 13:10:10 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "9.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.58,26.82"
+  },
+  {
+    "EVENT_ID": "1085800",
+    "YER": "KIBRIS BÖLGESİ",
+    "ZAMAN": "2022-01-11 04:07:49 (TSİ)",
+    "BÜYÜKLÜK": "6.7",
+    "DERİNLİK": "25.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.24,31.93"
+  },
+  {
+    "EVENT_ID": "1081371",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2021-12-26 21:59:03 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.03,26.94"
+  },
+  {
+    "EVENT_ID": "1047368",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2021-10-12 12:24:04 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "20.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.04,26.27"
+  },
+  {
+    "EVENT_ID": "1041084",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2021-09-27 09:17:22 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.11,25.22"
+  },
+  {
+    "EVENT_ID": "1015668",
+    "YER": "ONİKİ ADALAR SINIR BÖLGESİ",
+    "ZAMAN": "2021-08-01 07:31:27 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "14.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.37,27.1"
+  },
+  {
+    "EVENT_ID": "1001123",
+    "YER": "ONİKİ ADALAR SINIR BÖLGESİ",
+    "ZAMAN": "2021-06-22 01:14:14 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "11.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.38,27.1"
+  },
+  {
+    "EVENT_ID": "933043",
+    "YER": "KAVAKTEPE-SIVRICE (ELÂZIĞ)",
+    "ZAMAN": "2020-12-27 09:37:32 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "2.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.49,39.21"
+  },
+  {
+    "EVENT_ID": "915787",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "2020-10-30 14:51:25 (TSİ)",
+    "BÜYÜKLÜK": "7.1",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.91,26.84"
+  },
+  {
+    "EVENT_ID": "882287",
+    "YER": "YAZICA-PÜTÜRGE (MALATYA)",
+    "ZAMAN": "2020-08-04 12:37:35 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "5.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.19,38.72"
+  },
+  {
+    "EVENT_ID": "872105",
+    "YER": "TAŞLICA-MARMARİS (MUĞLA)",
+    "ZAMAN": "2020-06-28 20:43:29 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "64.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.64,28.25"
+  },
+  {
+    "EVENT_ID": "867863",
+    "YER": "KAYNARPINAR-KARLIOVA (BINGÖL)",
+    "ZAMAN": "2020-06-15 09:51:30 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "5.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.35,40.75"
+  },
+  {
+    "EVENT_ID": "867603",
+    "YER": "DİNARBEY-YEDİSU (BINGÖL)",
+    "ZAMAN": "2020-06-14 17:24:28 (TSİ)",
+    "BÜYÜKLÜK": "6.0",
+    "DERİNLİK": "5.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.359969, 40.679492"
+  },
+  {
+    "EVENT_ID": "832582",
+    "YER": "TÜRKİYE-İRAN SINIR BÖLGESİ",
+    "ZAMAN": "2020-02-23 19:00:29 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.42,44.55"
+  },
+  {
+    "EVENT_ID": "832418",
+    "YER": "TÜRKİYE-İRAN SINIR BÖLGESİ",
+    "ZAMAN": "2020-02-23 08:53:00 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.44,44.49"
+  },
+  {
+    "EVENT_ID": "824890",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "2020-01-30 14:21:36 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.08,27.8"
+  },
+  {
+    "EVENT_ID": "824690",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "2020-01-30 04:28:05 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.06,27.87"
+  },
+  {
+    "EVENT_ID": "822667",
+    "YER": "NERGIZE-SIVRICE (ELÂZIĞ)",
+    "ZAMAN": "2020-01-24 20:55:14 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "15.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.37,39.22"
+  },
+  {
+    "EVENT_ID": "821830",
+    "YER": "MUSALAR-AKHISAR (MANISA)",
+    "ZAMAN": "2020-01-22 22:22:16 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "9.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.06,27.84"
+  },
+  {
+    "EVENT_ID": "794756",
+    "YER": "MARMARA DENIZI",
+    "ZAMAN": "2019-09-26 13:59:25 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "7.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.87,28.19"
+  },
+  {
+    "EVENT_ID": "784988",
+    "YER": "AVDAN-BOZKURT (DENIZLI)",
+    "ZAMAN": "2019-08-08 14:25:30 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "7.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.88,29.62"
+  },
+  {
+    "EVENT_ID": "752096",
+    "YER": "YENIKÖY-ACIPAYAM (DENIZLI)",
+    "ZAMAN": "2019-03-20 09:34:28 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "11.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.43,29.44"
+  },
+  {
+    "EVENT_ID": "606346",
+    "YER": "KARAADA-BODRUM (MUĞLA)",
+    "ZAMAN": "2017-07-21 01:31:11 (TSİ)",
+    "BÜYÜKLÜK": "6.7",
+    "DERİNLİK": "2.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.96,27.45"
+  },
+  {
+    "EVENT_ID": "597714",
+    "YER": "EGE DENİZİ KIYILARI YAKINLARI",
+    "ZAMAN": "2017-06-12 15:28:37 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "9.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.85,26.31"
+  },
+  {
+    "EVENT_ID": "572980",
+    "YER": "UZUNTEPE-SAMSAT (ADIYAMAN)",
+    "ZAMAN": "2017-03-02 14:07:25 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "11.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.6,38.49"
+  },
+  {
+    "EVENT_ID": "436951",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2015-04-16 21:07:44 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "30.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.03,26.81"
+  },
+  {
+    "EVENT_ID": "379935",
+    "YER": "EGE DENİZİ",
+    "ZAMAN": "2014-05-24 12:25:02 (TSİ)",
+    "BÜYÜKLÜK": "7.0",
+    "DERİNLİK": "27.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.29,25.4"
+  },
+  {
+    "EVENT_ID": "350027",
+    "YER": "KIBRIS BÖLGESİ",
+    "ZAMAN": "2013-12-28 18:21:05 (TSİ)",
+    "BÜYÜKLÜK": "6.0",
+    "DERİNLİK": "64.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.96,31.29"
+  },
+  {
+    "EVENT_ID": "300037",
+    "YER": "EGE DENİZİ",
+    "ZAMAN": "2013-01-08 17:16:08 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.66,25.54"
+  },
+  {
+    "EVENT_ID": "298076",
+    "YER": "GÜRCİSTAN AÇIKLARI, KARADENİZ",
+    "ZAMAN": "2012-12-23 16:31:40 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "10.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=42.58,40.98"
+  },
+  {
+    "EVENT_ID": "277372",
+    "YER": "AKDENİZ",
+    "ZAMAN": "2012-07-09 16:54:59 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "50.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.52,28.88"
+  },
+  {
+    "EVENT_ID": "272709",
+    "YER": "FETHİYE AÇIKLARI, AKDENİZ",
+    "ZAMAN": "2012-06-10 15:44:16 (TSİ)",
+    "BÜYÜKLÜK": "6.0",
+    "DERİNLİK": "30.0km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.36,28.93"
+  },
+  {
+    "EVENT_ID": "602055",
+    "YER": "YENİ-EDREMIT (VAN)",
+    "ZAMAN": "2011-11-09 22:23:35 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.4417,43.2889"
+  },
+  {
+    "EVENT_ID": "592235",
+    "YER": "ÇİTÖREN-TUŞBA (VAN)",
+    "ZAMAN": "2011-10-23 23:45:36 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.5743,43.162"
+  },
+  {
+    "EVENT_ID": "591949",
+    "YER": "YEMLICE-TUŞBA (VAN)",
+    "ZAMAN": "2011-10-23 14:32:40 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "12km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.7493,43.4488"
+  },
+  {
+    "EVENT_ID": "591934",
+    "YER": "ŞAHGELDI-TUŞBA (VAN)",
+    "ZAMAN": "2011-10-23 13:56:49 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.7838,43.3419"
+  },
+  {
+    "EVENT_ID": "591931",
+    "YER": "GÖLLÜ-TUŞBA (VAN)",
+    "ZAMAN": "2011-10-23 13:48:15 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.7056,43.348"
+  },
+  {
+    "EVENT_ID": "591929",
+    "YER": "YEMLICE-TUŞBA (VAN)",
+    "ZAMAN": "2011-10-23 13:41:22 (TSİ)",
+    "BÜYÜKLÜK": "7.4",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.7576,43.4776"
+  },
+  {
+    "EVENT_ID": "526105",
+    "YER": "ŞEN-SIMAV (KÜTAHYA)",
+    "ZAMAN": "2011-05-19 23:15:23 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "2km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.1385,29.1309"
+  },
+  {
+    "EVENT_ID": "510968",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2011-04-01 16:29:10 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "80km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.5658,26.6019"
+  },
+  {
+    "EVENT_ID": "389861",
+    "YER": "İSAAĞAMEZRAASI-KOVANCILAR (ELÂZIĞ)",
+    "ZAMAN": "2010-03-08 05:32:34 (TSİ)",
+    "BÜYÜKLÜK": "6.0",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.8257,40.1043"
+  },
+  {
+    "EVENT_ID": "344282",
+    "YER": "GÜRCİSTAN",
+    "ZAMAN": "2009-09-08 01:41:36 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=42.7019,43.4155"
+  },
+  {
+    "EVENT_ID": "319271",
+    "YER": "AKDENİZ",
+    "ZAMAN": "2009-06-19 17:04:59 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "32.9km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.2339,28.4744"
+  },
+  {
+    "EVENT_ID": "160415",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "2008-07-15 06:26:34 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "57.7km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.7308,27.8651"
+  },
+  {
+    "EVENT_ID": "84731",
+    "YER": "ALBAYRAK-ÇÜNGÜŞ (DIYARBAKIR)",
+    "ZAMAN": "2007-02-21 14:05:28 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "7.3km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.3367,39.3179"
+  },
+  {
+    "EVENT_ID": "59271",
+    "YER": "TEPECIK-SEFERIHISAR (İZMIR)",
+    "ZAMAN": "2005-10-21 00:40:03 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10.4km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.1405,26.7655"
+  },
+  {
+    "EVENT_ID": "58790",
+    "YER": "SIĞACIK-SEFERIHISAR (İZMIR)",
+    "ZAMAN": "2005-10-17 12:46:57 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "11.8km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.1814,26.7366"
+  },
+  {
+    "EVENT_ID": "46085",
+    "YER": "DÖRTYOL-KARLIOVA (BINGÖL)",
+    "ZAMAN": "2005-03-14 04:55:58 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.3872,40.988"
+  },
+  {
+    "EVENT_ID": "40790",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "2004-10-07 04:05:12 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "128.4km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.4759,26.8276"
+  },
+  {
+    "EVENT_ID": "27946",
+    "YER": "KURTULUŞ-MERKEZ (BINGÖL)",
+    "ZAMAN": "2003-05-01 03:27:06 (TSİ)",
+    "BÜYÜKLÜK": "5.7",
+    "DERİNLİK": "17.5km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.9999,40.5272"
+  },
+  {
+    "EVENT_ID": "26414",
+    "YER": "DAĞYOLU-PÜLÜMÜR (TUNCELI)",
+    "ZAMAN": "2003-01-27 08:26:24 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.5702,39.914"
+  },
+  {
+    "EVENT_ID": "20267",
+    "YER": "HAMİDİYE-ÇOBANLAR (AFYONKARAHISAR)",
+    "ZAMAN": "2002-02-03 12:26:45 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.6777,30.8689"
+  },
+  {
+    "EVENT_ID": "20235",
+    "YER": "KURUCAOVA-BOLVADIN (AFYONKARAHISAR)",
+    "ZAMAN": "2002-02-03 10:14:37 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.7142,30.9762"
+  },
+  {
+    "EVENT_ID": "20234",
+    "YER": "TAŞKÖPRÜ-SULTANDAĞI (AFYONKARAHISAR)",
+    "ZAMAN": "2002-02-03 10:11:31 (TSİ)",
+    "BÜYÜKLÜK": "5.8",
+    "DERİNLİK": "12km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.5468,31.2765"
+  },
+  {
+    "EVENT_ID": "20586",
+    "YER": "GİRİT ADASI, YUNANİSTAN",
+    "ZAMAN": "2002-01-22 07:53:52 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "100km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.4984,26.7399"
+  },
+  {
+    "EVENT_ID": "12236",
+    "YER": "İNCECIKKÖYÜ-ORTA (ÇANKIRI)",
+    "ZAMAN": "2000-06-06 05:41:56 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "47.5km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.5823,32.899"
+  },
+  {
+    "EVENT_ID": "9479",
+    "YER": "İSTILLI-MERKEZ (DÜZCE)",
+    "ZAMAN": "1999-11-12 20:17:59 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "12km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.8474,31.09"
+  },
+  {
+    "EVENT_ID": "9476",
+    "YER": "PAŞAORMANI-MERKEZ (DÜZCE)",
+    "ZAMAN": "1999-11-12 19:57:21 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "13.2km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.8043,31.1994"
+  },
+  {
+    "EVENT_ID": "9461",
+    "YER": "EŞME-KARTEPE (KOCAELI)",
+    "ZAMAN": "1999-11-11 17:41:26 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "17.9km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.7425,30.2422"
+  },
+  {
+    "EVENT_ID": "8007",
+    "YER": "FATİH-KARTEPE (KOCAELI)",
+    "ZAMAN": "1999-09-13 14:55:30 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "17.8km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.7327,30.0169"
+  },
+  {
+    "EVENT_ID": "6937",
+    "YER": "OVACIK-BAŞISKELE (KOCAELI)",
+    "ZAMAN": "1999-08-17 03:01:38 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.7494,29.9716"
+  },
+  {
+    "EVENT_ID": "2075",
+    "YER": "HAVUTLU-YÜREĞIR (ADANA)",
+    "ZAMAN": "1998-06-27 16:55:50 (TSİ)",
+    "BÜYÜKLÜK": "5.6",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.9358,35.3664"
+  }
+]
