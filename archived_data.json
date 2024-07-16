@@ -670,5 +670,833 @@
     "BÜYÜKLÜK": "6.3",
     "DERİNLİK": "10km",
     "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.9358,35.3664"
+  },
+  {
+    "EVENT_ID": "usp0008qkc",
+    "YER": "AYDINCIK-YÜREĞIR (ADANA)",
+    "ZAMAN": "1998-06-27 16:55:52 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "33 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.878,35.307",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008qkc"
+  },
+  {
+    "EVENT_ID": "usp0008ap8",
+    "YER": "MİDİLLİ ADASI AÇIKLARI, EGE DENİZİ",
+    "ZAMAN": "1997-11-15 00:38:51 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "17.9 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.859,25.795",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008ap8"
+  },
+  {
+    "EVENT_ID": "usp000749b",
+    "YER": "ÇAKICI-DINAR (AFYONKARAHISAR)",
+    "ZAMAN": "1995-10-01 18:57:16 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "33 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.063,30.134",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000749b"
+  },
+  {
+    "EVENT_ID": "usp0005gdt",
+    "YER": "KELER-MENDERES (İZMIR)",
+    "ZAMAN": "1992-11-06 22:08:09 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "17.2 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.16,26.998",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005gdt"
+  },
+  {
+    "EVENT_ID": "usp000547c",
+    "YER": "HANCIÇİFTLİĞİ-MERKEZ (ERZINCAN)",
+    "ZAMAN": "1992-03-13 20:18:39 (TSİ)",
+    "BÜYÜKLÜK": "6.8",
+    "DERİNLİK": "27.2 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.71,39.605",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000547c"
+  },
+  {
+    "EVENT_ID": "usp0003pmm",
+    "YER": "ERMENİSTAN",
+    "ZAMAN": "1988-12-07 10:41:24 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "5.4 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.987,44.185",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003pmm"
+  },
+  {
+    "EVENT_ID": "usp0002thr",
+    "YER": "ÖRENCİK-DOĞANŞEHIR (MALATYA)",
+    "ZAMAN": "1986-05-05 06:35:38 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "9.6 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.993,37.806",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002thr"
+  },
+  {
+    "EVENT_ID": "usp000252t",
+    "YER": "MİDİLLİ ADASI AÇIKLARI, EGE DENİZİ",
+    "ZAMAN": "1984-06-17 10:48:02 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "22.5 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.859,25.723",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000252t"
+  },
+  {
+    "EVENT_ID": "usp0001zdn",
+    "YER": "PARMAKDERE-SARIKAMIŞ (KARS)",
+    "ZAMAN": "1983-10-30 07:12:27 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "11.6 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.33,42.187",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001zdn"
+  },
+  {
+    "EVENT_ID": "usp0001wk7",
+    "YER": "TOKATKIRI-BIGA (ÇANAKKALE)",
+    "ZAMAN": "1983-07-05 15:01:27 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.324,27.222",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001wk7"
+  },
+  {
+    "EVENT_ID": "usp0001hgc",
+    "YER": "EGE DENİZİ",
+    "ZAMAN": "1981-12-19 17:10:50 (TSİ)",
+    "BÜYÜKLÜK": "7.3",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.243,25.227",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001hgc"
+  },
+  {
+    "EVENT_ID": "usp0000kf0",
+    "YER": "YUKARIKUYUCAK-ÇALDIRAN (VAN)",
+    "ZAMAN": "1976-11-24 15:22:18 (TSİ)",
+    "BÜYÜKLÜK": "7.4",
+    "DERİNLİK": "36 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.121,44.029",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000kf0"
+  },
+  {
+    "EVENT_ID": "usp0000cqe",
+    "YER": "YÜNLÜCE-LICE (DIYARBAKIR)",
+    "ZAMAN": "1975-09-06 12:20:10 (TSİ)",
+    "BÜYÜKLÜK": "6.8",
+    "DERİNLİK": "26 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.474,40.723",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000cqe"
+  },
+  {
+    "EVENT_ID": "usp0000acv",
+    "YER": "SAROŞ KÖRFEZI (ÇANAKKALE)",
+    "ZAMAN": "1975-03-27 08:15:06 (TSİ)",
+    "BÜYÜKLÜK": "6.8",
+    "DERİNLİK": "5 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.418,26.139",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000acv"
+  },
+  {
+    "EVENT_ID": "iscgem784837",
+    "YER": "KARDEŞLER-MERKEZ (BINGÖL)",
+    "ZAMAN": "1971-05-22 19:44:02 (TSİ)",
+    "BÜYÜKLÜK": "6.7",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.934,40.653",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem784837"
+  },
+  {
+    "EVENT_ID": "iscgem784339",
+    "YER": "KAVAK-YEŞILOVA (BURDUR)",
+    "ZAMAN": "1971-05-12 09:25:16 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "22.5 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.585,29.784",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem784339"
+  },
+  {
+    "EVENT_ID": "iscgem796915",
+    "YER": "SARAYCIK-ALTINTAŞ (KÜTAHYA)",
+    "ZAMAN": "1970-04-19 16:29:38 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "18.4 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.972,29.753",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem796915"
+  },
+  {
+    "EVENT_ID": "iscgem798506",
+    "YER": "YEĞINLER-GEDIZ (KÜTAHYA)",
+    "ZAMAN": "1970-03-29 00:02:26 (TSİ)",
+    "BÜYÜKLÜK": "7.3",
+    "DERİNLİK": "25 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.098,29.57",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem798506"
+  },
+  {
+    "EVENT_ID": "iscgem811616",
+    "YER": "ÇIFTÇIIBRAHIM-KULA (MANISA)",
+    "ZAMAN": "1969-03-28 04:48:32 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.515,28.546",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem811616"
+  },
+  {
+    "EVENT_ID": "iscgem811514",
+    "YER": "KIÇIR-SIMAV (KÜTAHYA)",
+    "ZAMAN": "1969-03-25 16:21:32 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.237,28.714",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem811514"
+  },
+  {
+    "EVENT_ID": "iscgem813187",
+    "YER": "AKDENİZ",
+    "ZAMAN": "1969-01-15 02:12:08 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "25 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.043,29.221",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813187"
+  },
+  {
+    "EVENT_ID": "iscgem816634",
+    "YER": "AKKONAK AÇIKLARI (BARTIN)",
+    "ZAMAN": "1968-09-03 11:19:56 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "20 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=41.86,32.463",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem816634"
+  },
+  {
+    "EVENT_ID": "iscgem833748",
+    "YER": "KONARLI-TERCAN (ERZINCAN)",
+    "ZAMAN": "1967-07-26 21:53:02 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "20 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.568,40.445",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem833748"
+  },
+  {
+    "EVENT_ID": "iscgem833573",
+    "YER": "SÜMBÜLLÜ-HENDEK (SAKARYA)",
+    "ZAMAN": "1967-07-22 19:57:00 (TSİ)",
+    "BÜYÜKLÜK": "7.4",
+    "DERİNLİK": "30 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.751,30.8",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem833573"
+  },
+  {
+    "EVENT_ID": "iscgem844740",
+    "YER": "BAYINDIR-ÇAT (ERZURUM)",
+    "ZAMAN": "1966-08-20 14:59:13 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "25 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.438,41.094",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem844740"
+  },
+  {
+    "EVENT_ID": "iscgem844692",
+    "YER": "KOÇYATAĞI-VARTO (MUŞ)",
+    "ZAMAN": "1966-08-19 15:22:12 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "24.7 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.235,41.572",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem844692"
+  },
+  {
+    "EVENT_ID": "iscgem863310",
+    "YER": "SULTANIYE-KARACABEY (BURSA)",
+    "ZAMAN": "1964-10-06 17:31:25 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "27.4 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.203,28.206",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem863310"
+  },
+  {
+    "EVENT_ID": "iscgem873085",
+    "YER": "KORU-ÇINARCIK (YALOVA)",
+    "ZAMAN": "1963-09-18 19:58:14 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "30 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.698,29.159",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873085"
+  },
+  {
+    "EVENT_ID": "iscgem17290377",
+    "YER": "SARIGERME-ORTACA (MUĞLA)",
+    "ZAMAN": "1961-05-23 05:45:19 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "35 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.693,28.594",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17290377"
+  },
+  {
+    "EVENT_ID": "iscgem886606",
+    "YER": "DEDELER-AKYAZI (SAKARYA)",
+    "ZAMAN": "1957-05-26 12:36:38 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.62,30.86",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886606"
+  },
+  {
+    "EVENT_ID": "iscgem886602",
+    "YER": "GÖLORMANI-MERKEZ (DÜZCE)",
+    "ZAMAN": "1957-05-26 09:33:37 (TSİ)",
+    "BÜYÜKLÜK": "7.2",
+    "DERİNLİK": "25 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.73,31.09",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886602"
+  },
+  {
+    "EVENT_ID": "iscgem886448",
+    "YER": "FETHİYE AÇIKLARI, AKDENİZ",
+    "ZAMAN": "1957-04-25 05:25:41 (TSİ)",
+    "BÜYÜKLÜK": "7.4",
+    "DERİNLİK": "35 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.405,28.699",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886448"
+  },
+  {
+    "EVENT_ID": "iscgem886445",
+    "YER": "FETHİYE AÇIKLARI, AKDENİZ",
+    "ZAMAN": "1957-04-24 22:10:13 (TSİ)",
+    "BÜYÜKLÜK": "7.2",
+    "DERİNLİK": "35 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.493,28.829",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886445"
+  },
+  {
+    "EVENT_ID": "iscgem888445",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "1956-07-09 06:11:45 (TSİ)",
+    "BÜYÜKLÜK": "7.8",
+    "DERİNLİK": "20 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.664,25.957",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888445"
+  },
+  {
+    "EVENT_ID": "iscgem887994",
+    "YER": "HEKIMDAĞ-TEPEBAŞI (ESKIŞEHIR)",
+    "ZAMAN": "1956-02-20 23:31:41 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.891,30.543",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887994"
+  },
+  {
+    "EVENT_ID": "iscgem889750",
+    "YER": "ATBURGAZI-SÖKE (AYDIN)",
+    "ZAMAN": "1955-07-16 10:07:14 (TSİ)",
+    "BÜYÜKLÜK": "6.7",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.617,27.284",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889750"
+  },
+  {
+    "EVENT_ID": "iscgem891989",
+    "YER": "KÖPRÜLÜBEY-BAYRAMÖREN (ÇANKIRI)",
+    "ZAMAN": "1953-09-07 06:58:59 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.956,33.204",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891989"
+  },
+  {
+    "EVENT_ID": "iscgem891561",
+    "YER": "GÜNDOĞAN-GÖNEN (BALIKESIR)",
+    "ZAMAN": "1953-03-18 22:06:17 (TSİ)",
+    "BÜYÜKLÜK": "7.4",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.175,27.648",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891561"
+  },
+  {
+    "EVENT_ID": "iscgem894620",
+    "YER": "GÜZELCE-ARAÇ (KASTAMONU)",
+    "ZAMAN": "1951-08-13 21:33:38 (TSİ)",
+    "BÜYÜKLÜK": "7.1",
+    "DERİNLİK": "25 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=41.289,32.96",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894620"
+  },
+  {
+    "EVENT_ID": "iscgem896772",
+    "YER": "SALTAŞ-ÇAT (ERZURUM)",
+    "ZAMAN": "1949-08-17 21:44:17 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.503,40.671",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896772"
+  },
+  {
+    "EVENT_ID": "iscgem896705",
+    "YER": "İSKELE-KARABURUN (İZMIR)",
+    "ZAMAN": "1949-07-23 18:03:35 (TSİ)",
+    "BÜYÜKLÜK": "7.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.718,26.48",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896705"
+  },
+  {
+    "EVENT_ID": "iscgem897184",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "1948-02-09 15:58:18 (TSİ)",
+    "BÜYÜKLÜK": "7.4",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.64,27.158",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897184"
+  },
+  {
+    "EVENT_ID": "iscgem899161",
+    "YER": "KARAMIK-DADAY (KASTAMONU)",
+    "ZAMAN": "1945-10-26 16:56:47 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=41.407,33.47",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899161"
+  },
+  {
+    "EVENT_ID": "iscgem898851",
+    "YER": "AKDAM-CEYHAN (ADANA)",
+    "ZAMAN": "1945-03-20 10:58:52 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.244,35.859",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898851"
+  },
+  {
+    "EVENT_ID": "iscgem899568",
+    "YER": "YEŞİLYURT-AYVACIK (ÇANAKKALE)",
+    "ZAMAN": "1944-10-06 05:34:47 (TSİ)",
+    "BÜYÜKLÜK": "6.8",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.509,26.587",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899568"
+  },
+  {
+    "EVENT_ID": "iscgem899440",
+    "YER": "CUMHURIYET-ANITKAYA (AFYONKARAHISAR)",
+    "ZAMAN": "1944-06-25 07:16:16 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.901,30.303",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899440"
+  },
+  {
+    "EVENT_ID": "iscgem899277",
+    "YER": "BUĞURÖREN-ORTA (ÇANKIRI)",
+    "ZAMAN": "1944-02-01 06:22:40 (TSİ)",
+    "BÜYÜKLÜK": "7.7",
+    "DERİNLİK": "30 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.66,32.998",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899277"
+  },
+  {
+    "EVENT_ID": "iscgem900102",
+    "YER": "KUŞÇAYIRI-ILGAZ (ÇANKIRI)",
+    "ZAMAN": "1943-11-27 01:20:48 (TSİ)",
+    "BÜYÜKLÜK": "7.6",
+    "DERİNLİK": "20 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.867,33.651",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900102"
+  },
+  {
+    "EVENT_ID": "iscgem899896",
+    "YER": "TUZLA-TARAKLI (SAKARYA)",
+    "ZAMAN": "1943-06-20 18:32:53 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.5,30.525",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899896"
+  },
+  {
+    "EVENT_ID": "iscgem900592",
+    "YER": "AMBARGÜRGEN-AKKUŞ (ORDU)",
+    "ZAMAN": "1942-12-20 17:03:09 (TSİ)",
+    "BÜYÜKLÜK": "7.1",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.907,36.744",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900592"
+  },
+  {
+    "EVENT_ID": "iscgem900580",
+    "YER": "GÜVEMÖZÜ-GÜMÜŞHACIKÖY (AMASYA)",
+    "ZAMAN": "1942-12-11 05:39:16 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.941,35.08",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900580"
+  },
+  {
+    "EVENT_ID": "iscgem900552",
+    "YER": "HASANÖREN-SIMAV (KÜTAHYA)",
+    "ZAMAN": "1942-11-15 20:01:20 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.364,28.886",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900552"
+  },
+  {
+    "EVENT_ID": "iscgem901072",
+    "YER": "KURUTİLEK-MERKEZ (ERZINCAN)",
+    "ZAMAN": "1941-11-12 13:04:54 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.782,39.506",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901072"
+  },
+  {
+    "EVENT_ID": "iscgem900820",
+    "YER": "ÇETİBELİ-MARMARIS (MUĞLA)",
+    "ZAMAN": "1941-05-23 22:51:54 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.956,28.344",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900820"
+  },
+  {
+    "EVENT_ID": "iscgem900626",
+    "YER": "ALANİÇİ-GAZİMAĞUSA (KKTC)",
+    "ZAMAN": "1941-01-20 06:37:01 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.221,33.751",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900626"
+  },
+  {
+    "EVENT_ID": "iscgem901508",
+    "YER": "GÜLŞEHRİ-SORGUN (YOZGAT)",
+    "ZAMAN": "1940-07-30 03:12:11 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.833,35.476",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901508"
+  },
+  {
+    "EVENT_ID": "iscgem901322",
+    "YER": "GÜRCİSTAN",
+    "ZAMAN": "1940-05-08 01:23:44 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=41.9,43.742",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901322"
+  },
+  {
+    "EVENT_ID": "iscgem902291",
+    "YER": "AĞLIK-KELKIT (GÜMÜŞHANE)",
+    "ZAMAN": "1939-12-27 02:57:23 (TSİ)",
+    "BÜYÜKLÜK": "7.8",
+    "DERİNLİK": "20 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.907,39.586",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902291"
+  },
+  {
+    "EVENT_ID": "iscgem902170",
+    "YER": "İNCECİKLER-BERGAMA (İZMIR)",
+    "ZAMAN": "1939-09-22 03:36:41 (TSİ)",
+    "BÜYÜKLÜK": "6.6",
+    "DERİNLİK": "35 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.204,27.142",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902170"
+  },
+  {
+    "EVENT_ID": "iscgem902444",
+    "YER": "ÇELEBIUŞAĞI-AKPINAR (KIRŞEHIR)",
+    "ZAMAN": "1938-04-19 13:59:21 (TSİ)",
+    "BÜYÜKLÜK": "6.7",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.544,33.911",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902444"
+  },
+  {
+    "EVENT_ID": "iscgem904257",
+    "YER": "EŞMEYAZI-MERKEZ (KARS)",
+    "ZAMAN": "1935-05-01 13:24:44 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.566,43.415",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904257"
+  },
+  {
+    "EVENT_ID": "iscgem904023",
+    "YER": "SARAYLAR-MARMARA (BALIKESİR)",
+    "ZAMAN": "1935-01-04 19:20:06 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.664,27.555",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904023"
+  },
+  {
+    "EVENT_ID": "iscgem904020",
+    "YER": "MARMARA DENIZI",
+    "ZAMAN": "1935-01-04 17:41:30 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.62,27.451",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904020"
+  },
+  {
+    "EVENT_ID": "iscgem905269",
+    "YER": "DAĞCILAR-SILVAN (DIYARBAKIR)",
+    "ZAMAN": "1934-11-12 10:19:14 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.302,40.934",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905269"
+  },
+  {
+    "EVENT_ID": "iscgem905533",
+    "YER": "YAZI-DATÇA (MUĞLA)",
+    "ZAMAN": "1933-04-23 08:57:34 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.759,27.299",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905533"
+  },
+  {
+    "EVENT_ID": "iscgem907584",
+    "YER": "KIZILDAĞ-MANAVGAT (ANTALYA)",
+    "ZAMAN": "1930-09-11 15:36:43 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.062,31.342",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907584"
+  },
+  {
+    "EVENT_ID": "iscgem907371",
+    "YER": "İRAN",
+    "ZAMAN": "1930-05-08 18:35:27 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.46,45.058",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907371"
+  },
+  {
+    "EVENT_ID": "iscgem907354",
+    "YER": "İRAN",
+    "ZAMAN": "1930-05-07 01:34:27 (TSİ)",
+    "BÜYÜKLÜK": "7.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.108,44.727",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907354"
+  },
+  {
+    "EVENT_ID": "iscgem908082",
+    "YER": "GÜNLÜCE-SUŞEHRI (SIVAS)",
+    "ZAMAN": "1929-05-18 09:37:55 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.266,38.096",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908082"
+  },
+  {
+    "EVENT_ID": "iscgem908659",
+    "YER": "AKPINAR-HARMANCIK (BURSA)",
+    "ZAMAN": "1928-05-03 00:54:32 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.627,29.121",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908659"
+  },
+  {
+    "EVENT_ID": "iscgem908608",
+    "YER": "BULGARİSTAN",
+    "ZAMAN": "1928-04-18 22:22:56 (TSİ)",
+    "BÜYÜKLÜK": "7.2",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=42.351,25.044",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908608"
+  },
+  {
+    "EVENT_ID": "iscgem908596",
+    "YER": "BULGARİSTAN",
+    "ZAMAN": "1928-04-14 12:00:00 (TSİ)",
+    "BÜYÜKLÜK": "7.2",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=42.351,25.641",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908596"
+  },
+  {
+    "EVENT_ID": "iscgem908579",
+    "YER": "ÇINARDİBİ-BAYINDIR (İZMIR)",
+    "ZAMAN": "1928-03-31 03:29:50 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.274,27.511",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908579"
+  },
+  {
+    "EVENT_ID": "iscgem909893",
+    "YER": "KOS ADASI, YUNANİSTAN",
+    "ZAMAN": "1926-06-26 22:46:34 (TSİ)",
+    "BÜYÜKLÜK": "7.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.794,26.935",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909893"
+  },
+  {
+    "EVENT_ID": "iscgem909771",
+    "YER": "KAŞ AÇIKLARI (ANTALYA)",
+    "ZAMAN": "1926-03-18 17:06:15 (TSİ)",
+    "BÜYÜKLÜK": "6.8",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.065,29.596",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909771"
+  },
+  {
+    "EVENT_ID": "iscgem911202",
+    "YER": "YUKARIKAŞIKARA-YALVAÇ (ISPARTA)",
+    "ZAMAN": "1924-11-20 23:27:44 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.364,30.892",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911202"
+  },
+  {
+    "EVENT_ID": "iscgem911110",
+    "YER": "KIYIKONAK-KÖPRÜKÖY (ERZURUM)",
+    "ZAMAN": "1924-09-13 17:34:16 (TSİ)",
+    "BÜYÜKLÜK": "7.0",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.938,41.876",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911110"
+  },
+  {
+    "EVENT_ID": "iscgem912324",
+    "YER": "BEŞKARDEŞ-KULU (KONYA)",
+    "ZAMAN": "1921-09-26 12:26:04 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.956,33.046",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912324"
+  },
+  {
+    "EVENT_ID": "iscgem913005",
+    "YER": "ÖĞEÇLİ-KIRKAĞAÇ (MANISA)",
+    "ZAMAN": "1919-11-19 00:54:41 (TSİ)",
+    "BÜYÜKLÜK": "7.1",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=39.176,27.652",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913005"
+  },
+  {
+    "EVENT_ID": "iscgem912992",
+    "YER": "ONİKİ ADALAR, YUNANİSTAN",
+    "ZAMAN": "1919-10-25 20:10:07 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=36.512,25.872",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912992"
+  },
+  {
+    "EVENT_ID": "iscgem912810",
+    "YER": "SOFÇULAR-ARAÇ (KASTAMONU)",
+    "ZAMAN": "1919-06-09 10:13:52 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=41.17,32.979",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912810"
+  },
+  {
+    "EVENT_ID": "iscgem913295",
+    "YER": "AKDENİZ",
+    "ZAMAN": "1918-09-29 15:07:15 (TSİ)",
+    "BÜYÜKLÜK": "6.5",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.075,35.462",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913295"
+  },
+  {
+    "EVENT_ID": "iscgem913755",
+    "YER": "MANSURLU-HAFIK (SIVAS)",
+    "ZAMAN": "1916-01-24 09:55:13 (TSİ)",
+    "BÜYÜKLÜK": "7.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.201,37.312",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913755"
+  },
+  {
+    "EVENT_ID": "iscgem914008",
+    "YER": "SULUDERE-MERKEZ (BURDUR)",
+    "ZAMAN": "1914-10-04 01:07:06 (TSİ)",
+    "BÜYÜKLÜK": "7.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.666,30.125",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914008"
+  },
+  {
+    "EVENT_ID": "iscgem610326388",
+    "YER": "TEPEKÖY-ŞARKÖY (TEKİRDAĞ)",
+    "ZAMAN": "1912-09-14 02:31:26 (TSİ)",
+    "BÜYÜKLÜK": "6.8",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.685,27.2",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326388"
+  },
+  {
+    "EVENT_ID": "iscgem610326492",
+    "YER": "MARMARA DENIZI",
+    "ZAMAN": "1912-08-10 12:23:48 (TSİ)",
+    "BÜYÜKLÜK": "6.3",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.396,27.402",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326492"
+  },
+  {
+    "EVENT_ID": "iscgem16958205",
+    "YER": "BULGUR-ŞARKÖY (KAYSERI)",
+    "ZAMAN": "1912-08-09 04:29:02 (TSİ)",
+    "BÜYÜKLÜK": "7.3",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.73,27.121",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958205"
+  },
+  {
+    "EVENT_ID": "iscgem610326363",
+    "YER": "KAYI-OĞUZLAR (ÇORUM)",
+    "ZAMAN": "1910-06-25 22:20:46 (TSİ)",
+    "BÜYÜKLÜK": "6.6",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.805,34.629",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326363"
+  },
+  {
+    "EVENT_ID": "iscgem610326343",
+    "YER": "BULGARİSTAN",
+    "ZAMAN": "1909-02-15 12:33:31 (TSİ)",
+    "BÜYÜKLÜK": "6.2",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=42.221,26.685",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326343"
+  },
+  {
+    "EVENT_ID": "iscgem16958012",
+    "YER": "KALE-SUŞEHRI (SIVAS)",
+    "ZAMAN": "1909-02-09 14:24:05 (TSİ)",
+    "BÜYÜKLÜK": "6.4",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=40.406,38.098",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958012"
+  },
+  {
+    "EVENT_ID": "iscgem610326342",
+    "YER": "FOÇA AÇIKLARI (İZMİR)",
+    "ZAMAN": "1909-01-19 07:56:39 (TSİ)",
+    "BÜYÜKLÜK": "6.1",
+    "DERİNLİK": "15 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.826,26.579",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326342"
+  },
+  {
+    "EVENT_ID": "iscgemsup603952288",
+    "YER": "BAŞMEZRA-PÜTÜRGE (MALATYA)",
+    "ZAMAN": "1905-12-04 10:05:30 (TSİ)",
+    "BÜYÜKLÜK": "6.9",
+    "DERİNLİK": "10 km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.153,38.645",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup603952288"
   }
 ]
