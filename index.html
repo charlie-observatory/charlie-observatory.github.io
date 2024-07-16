@@ -18,6 +18,9 @@
             text-align: center;
             padding: 10px;
         }
+        .header .button-container {
+            margin-top: 10px;
+        }
         .earthquake {
             border: 1px solid #ccc;
             margin: 10px;
@@ -63,6 +66,18 @@
             align-items: center;
             height: 100vh;
         }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 10px;
+            background-color: #333;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .button:hover {
+            background-color: #555;
+        }
     </style>
 </head>
 <body>
@@ -71,6 +86,9 @@
         <h1>Son 100 Depremler</h1>
         <div>
             <a href="https://twitter.com/charlie_observ" target="_blank"><img src="twitter-icon.png" alt="Twitter Icon" width="30" height="30"></a>
+        </div>
+        <div class="button-container">
+            <a href="archived.html" class="button">Significant Earthquakes</a>
         </div>
     </div>
 
