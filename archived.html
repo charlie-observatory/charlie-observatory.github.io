@@ -39,36 +39,24 @@
             border-radius: 5px;
             background-color: white;
         }
-        .green {
-            background-color: #008000; /* Bold green */
-            color: white;
-        }
-        .yellow {
-            background-color: #ffea00; /* Bold yellow */
-            color: black;
-        }
-        .orange {
-            background-color: #ff8c00; /* Bold orange */
-            color: white;
-        }
-        .red {
-            background-color: #ff0000; /* Bold red */
-            color: white;
-        }
+        .green { background-color: #008000; color: white; }
+        .yellow { background-color: #ffea00; color: black; }
+        .orange { background-color: #ff8c00; color: white; }
+        .red { background-color: #ff0000; color: white; }
         .magnitude {
-            font-size: 2em; /* Larger font size */
-            font-weight: bold; /* Bold font */
-            display: inline-block; /* Display inline with location */
+            font-size: 2em;
+            font-weight: bold;
+            display: inline-block;
             margin-right: 10px;
         }
         .location {
-            font-size: 1.5em; /* Slightly smaller font size for location */
+            font-size: 1.5em;
             display: inline-block;
-            vertical-align: top; /* Align with magnitude */
+            vertical-align: top;
         }
         .date {
-            font-size: 0.8em; /* Smaller font size for date */
-            display: block; /* Display block to place it under location */
+            font-size: 0.8em;
+            display: block;
             margin-top: 5px;
         }
         .loading {
@@ -77,12 +65,24 @@
             align-items: center;
             height: 100vh;
         }
+        .controls {
+            text-align: center;
+            margin: 20px;
+        }
     </style>
 </head>
 <body>
     <div class="header">
         <h1>Arşivlenmiş Önemli Depremler</h1>
         <a href="/" class="back-button">Geri Dön</a>
+    </div>
+
+    <div class="controls">
+        <label for="sort-options">Sırala:</label>
+        <select id="sort-options" onchange="updateEarthquakes()">
+            <option value="biggest">En Büyük Deprem</option>
+            <option value="time">Zamana Göre Sırala</option>
+        </select>
     </div>
 
     <div id="earthquake-list">
@@ -146,10 +146,21 @@
             });
         }
 
+        function sortEarthquakes(data, sortBy) {
+            if (sortBy === 'biggest') {
+                return data.sort((a, b) => parseFloat(b.BÜYÜKLÜK) - parseFloat(a.BÜYÜKLÜK));
+            } else if (sortBy === 'time') {
+                return data.sort((a, b) => new Date(b.ZAMAN) - new Date(a.ZAMAN));
+            }
+            return data;
+        }
+
         async function updateEarthquakes() {
             try {
                 const data = await fetchArchivedEarthquakeData();
-                displayEarthquakes(data);
+                const sortBy = document.getElementById('sort-options').value;
+                const sortedData = sortEarthquakes(data, sortBy);
+                displayEarthquakes(sortedData);
             } catch (error) {
                 console.error('Error fetching earthquake data:', error);
             }
@@ -159,4 +170,3 @@
     </script>
 </body>
 </html>
-
