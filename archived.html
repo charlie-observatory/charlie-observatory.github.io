@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Arşivlenmiş Önemli Depremler</title>
+    <link rel="icon" href="observatory-logo.png" type="image/png"> <!-- Favicon -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -16,8 +17,23 @@
             background-color: #000000;
             color: white;
             text-align: center;
-            padding: 10px;
+            padding: 20px;
             position: relative;
+        }
+        .logo {
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            vertical-align: middle;
+            margin-right: 10px;
+        }
+        .social-icons {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+        }
+        .social-icons a {
+            margin-left: 10px;
         }
         .back-button {
             position: absolute;
@@ -69,11 +85,34 @@
             text-align: center;
             margin: 20px;
         }
+        select {
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #ccc;
+            margin-left: 10px;
+            font-size: 1em;
+            background-color: white;
+        }
+        select:focus {
+            outline: none;
+            border-color: #333;
+        }
     </style>
 </head>
 <body>
     <div class="header">
-        <h1>Arşivlenmiş Önemli Depremler</h1>
+        <h1>
+            <img src="observatory-logo.png" alt="Observatory Logo" class="logo"> 
+            Arşivlenmiş Önemli Depremler
+        </h1>
+        <div class="social-icons">
+            <a href="https://twitter.com/charlie_observ" target="_blank">
+                <img src="twitter-icon.png" alt="Twitter Icon" class="logo">
+            </a>
+            <a href="index.html">
+                <img src="archive-icon.png" alt="Archive Icon" class="logo">
+            </a>
+        </div>
         <a href="/" class="back-button">Geri Dön</a>
     </div>
 
