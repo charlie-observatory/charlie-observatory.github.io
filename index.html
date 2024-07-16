@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Son 100 Depremler</title>
+    <link rel="icon" href="observatory-logo.png" type="image/png"> <!-- Favicon -->
     <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
@@ -16,13 +17,16 @@
             background-color: #000000;
             color: white;
             text-align: center;
-            padding: 10px;
+            padding: 20px;
             position: relative;
         }
-        .archive-icon {
+        .social-icons {
             position: absolute;
             top: 10px;
             right: 10px;
+        }
+        .social-icons a {
+            margin-left: 10px;
         }
         .earthquake {
             border: 1px solid #ccc;
@@ -31,36 +35,24 @@
             border-radius: 5px;
             background-color: white;
         }
-        .green {
-            background-color: #008000; /* Bold green */
-            color: white;
-        }
-        .yellow {
-            background-color: #ffea00; /* Bold yellow */
-            color: black;
-        }
-        .orange {
-            background-color: #ff8c00; /* Bold orange */
-            color: white;
-        }
-        .red {
-            background-color: #ff0000; /* Bold red */
-            color: white;
-        }
+        .green { background-color: #008000; color: white; }
+        .yellow { background-color: #ffea00; color: black; }
+        .orange { background-color: #ff8c00; color: white; }
+        .red { background-color: #ff0000; color: white; }
         .magnitude {
-            font-size: 2em; /* Larger font size */
-            font-weight: bold; /* Bold font */
-            display: inline-block; /* Display inline with location */
+            font-size: 2em;
+            font-weight: bold;
+            display: inline-block;
             margin-right: 10px;
         }
         .location {
-            font-size: 1.5em; /* Slightly smaller font size for location */
+            font-size: 1.5em;
             display: inline-block;
-            vertical-align: top; /* Align with magnitude */
+            vertical-align: top;
         }
         .date {
-            font-size: 0.8em; /* Smaller font size for date */
-            display: block; /* Display block to place it under location */
+            font-size: 0.8em;
+            display: block;
             margin-top: 5px;
         }
         .loading {
@@ -74,11 +66,9 @@
 <body>
     <div class="header">
         <h1>Charlie Observatory</h1>
-        <h1>Son 100 Depremler</h1>
-        <div>
+        <h2>Son 100 Depremler</h2>
+        <div class="social-icons">
             <a href="https://twitter.com/charlie_observ" target="_blank"><img src="twitter-icon.png" alt="Twitter Icon" width="30" height="30"></a>
-        </div>
-        <div class="archive-icon">
             <a href="archived.html"><img src="archive-icon.png" alt="Archive Icon" width="30" height="30"></a>
         </div>
     </div>
