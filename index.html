@@ -17,9 +17,12 @@
             color: white;
             text-align: center;
             padding: 10px;
+            position: relative;
         }
-        .header .button-container {
-            margin-top: 10px;
+        .archive-icon {
+            position: absolute;
+            top: 10px;
+            right: 10px;
         }
         .earthquake {
             border: 1px solid #ccc;
@@ -66,18 +69,6 @@
             align-items: center;
             height: 100vh;
         }
-        .button {
-            display: inline-block;
-            padding: 10px 20px;
-            margin-top: 10px;
-            background-color: #333;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-        }
-        .button:hover {
-            background-color: #555;
-        }
     </style>
 </head>
 <body>
@@ -87,8 +78,8 @@
         <div>
             <a href="https://twitter.com/charlie_observ" target="_blank"><img src="twitter-icon.png" alt="Twitter Icon" width="30" height="30"></a>
         </div>
-        <div class="button-container">
-            <a href="archived.html" class="button">Significant Earthquakes</a>
+        <div class="archive-icon">
+            <a href="archived.html" target="_blank"><img src="archive-icon.png" alt="Archive Icon" width="30" height="30"></a>
         </div>
     </div>
 
