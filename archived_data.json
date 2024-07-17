@@ -719,6 +719,15 @@
   },
   {
     "EVENT_ID": "usp0002thr",
+    "YER": "BAŞPINAR-ŞEHITKAMIL (GAZIANTEP)",
+    "ZAMAN": "1986-08-03 04:33:20 (TSİ)",
+    "BÜYÜKLÜK": "5.2",
+    "DERİNLİK": "11.5km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.993,37.806",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002thr"
+  },
+  {
+    "EVENT_ID": "usp0002thr",
     "YER": "ÖRENCİK-DOĞANŞEHIR (MALATYA)",
     "ZAMAN": "1986-05-05 05:35:38 (TSİ)",
     "BÜYÜKLÜK": "6.2",
