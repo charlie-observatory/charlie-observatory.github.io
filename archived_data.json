@@ -718,13 +718,13 @@
     "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003pmm"
   },
   {
-    "EVENT_ID": "usp0002thr",
-    "YER": "BAŞPINAR-ŞEHITKAMIL (GAZIANTEP)",
-    "ZAMAN": "1986-08-03 04:33:20 (TSİ)",
-    "BÜYÜKLÜK": "5.2",
-    "DERİNLİK": "11.5km",
-    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.993,37.806",
-    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002thr"
+    "EVENT_ID": "iscgem782114",
+    "YER": "KÖMÜRLER-NURDAĞI (GAZIANTEP)",
+    "ZAMAN": "1971-07-11 23:12:56 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "10km",
+    "GMAPS": "https://www.google.com/maps/search/?api=1&query=37.181000,%2036.778000",
+    "URL": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem782114"
   },
   {
     "EVENT_ID": "usp0002thr",
