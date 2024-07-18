@@ -24,6 +24,14 @@
     "GMAPS": "https://www.google.com/maps/search/?api=1&query=38.42,44.92"
   },
   {
+    "EVENT_ID": "1241294",
+    "YER": "GÖKSU-MUT (MERSIN)",
+    "ZAMAN": "1922-08-29 06:36:02 (TSİ)",
+    "BÜYÜKLÜK": "5.9",
+    "DERİNLİK": "15.0km",
+    "GMAPS": "https://www.google.com/maps/place/36%C2%B045'25.2%22N+33%C2%B010'44.4%22E/@36.7646304,33.1745127,13.25z/data=!4m4!3m3!8m2!3d36.757!4d33.179?entry=ttu"
+  },
+  {
     "EVENT_ID": "1226432",
     "YER": "MAĞARACIK-SAMANDAĞ (HATAY)",
     "ZAMAN": "2023-02-20 20:07:36 (TSİ)",
