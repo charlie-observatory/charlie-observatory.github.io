@@ -9,6 +9,15 @@
         "COORDS": "39.9894,35.9451"
     },
     {
+        "EVENT_ID": "us7000mcdxc",
+        "YER": "SURİYE",
+        "ZAMAN": "2024-08-12 23:56:00 (TSI)",
+        "BÜYÜKLÜK": "5.6",
+        "DERİNLİK": "7km",
+        "GMAPS": "https://www.google.com/maps/search/?api=1&query=35.0199,36.9772",
+        "COORDS": "35.019900,36.977200"
+    },
+    {
         "EVENT_ID": "us7000ki5u",
         "YER": "KARAHAMZALI-KOZAN (ADANA)",
         "ZAMAN": "2023-07-25 08:44:51 (TSI)",
